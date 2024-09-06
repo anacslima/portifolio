@@ -1,0 +1,21 @@
+#hum{
+    width: 800px;
+    height: 200px;
+    background-color: blue;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+
+#p_hum{
+    font-size: 30px;
+    color: #fff;
+    padding: 100px 30px;
+}
+
+#dois{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    margin-top: 50px;
+    margin-left: 300px;
+}
